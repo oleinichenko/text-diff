@@ -1,0 +1,7 @@
+.app{
+   min-height: 960px;
+    background: linear-gradient(135deg, #fbc993, #d781e9);
+   color:#fff;
+   font-family: 'Open Sans', sans-serif;
+   text-shadow: 0px 0px 1px #000;
+}
