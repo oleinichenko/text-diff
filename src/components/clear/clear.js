@@ -7,7 +7,7 @@ function Clear({first,setFirst,second,setSecond}) {
         textarea => (textarea.value = "")
         
    );
-    //setFirst(first.toUpperCase())
+    
     setFirst('');
     setSecond('');
     
